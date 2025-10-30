@@ -4,7 +4,7 @@
 
 Author: Maitri Rohit \& Dhairya Pandya \& Brinda Patel
 
-**Course:** B.Tech Computer science \& engineering Semester 3  
+**Course:** B.Tech Computer science \& engineering Semester 5
 
 Date: 30/10/2025
 
